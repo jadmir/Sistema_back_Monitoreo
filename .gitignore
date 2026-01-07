@@ -1,0 +1,6 @@
+node_modules/
+.env
+src/uploads/firmas/*
+!src/uploads/firmas/.gitkeep
+*.log
+.DS_Store
